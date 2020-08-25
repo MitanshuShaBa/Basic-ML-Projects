@@ -5,7 +5,7 @@ import joblib
 import numpy as np
 
 api = APIRouter()
-model = joblib.load('random_forest_heart_disease.joblib')
+model = joblib.load('app/routers/random_forest_heart_disease.joblib')
 
 
 @api.get("/")
