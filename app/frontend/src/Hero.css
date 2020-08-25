@@ -1,0 +1,25 @@
+#hero{
+    color: white;
+    flex: auto;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 3vh;
+}
+
+@media screen and (max-width: 480px) {
+    #hero__title{
+        font-size: 40px;
+    }
+    #hero__name{
+        font-size: medium;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    #hero__title{
+        font-size: 70px;
+    }
+    #hero__name{
+        font-size: large;
+    }
+}
