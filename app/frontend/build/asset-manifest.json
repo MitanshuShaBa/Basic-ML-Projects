@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/static/css/main.06e1a839.chunk.css",
+    "main.js": "/static/static/js/main.15807e75.chunk.js",
+    "main.js.map": "/static/static/js/main.15807e75.chunk.js.map",
+    "runtime-main.js": "/static/static/js/runtime-main.89bf0eb4.js",
+    "runtime-main.js.map": "/static/static/js/runtime-main.89bf0eb4.js.map",
+    "static/js/2.6d556f5c.chunk.js": "/static/static/js/2.6d556f5c.chunk.js",
+    "static/js/2.6d556f5c.chunk.js.map": "/static/static/js/2.6d556f5c.chunk.js.map",
+    "index.html": "/static/index.html",
+    "precache-manifest.3f202fc9587754d5582ad2f7e33e28ca.js": "/static/precache-manifest.3f202fc9587754d5582ad2f7e33e28ca.js",
+    "service-worker.js": "/static/service-worker.js",
+    "static/css/main.06e1a839.chunk.css.map": "/static/static/css/main.06e1a839.chunk.css.map",
+    "static/js/2.6d556f5c.chunk.js.LICENSE.txt": "/static/static/js/2.6d556f5c.chunk.js.LICENSE.txt",
+    "static/media/Mitanshu.jpg": "/static/static/media/Mitanshu.ab894f6f.jpg",
+    "static/media/pngkit_machine-learning-png_3142869.png": "/static/static/media/pngkit_machine-learning-png_3142869.79c92ff5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89bf0eb4.js",
+    "static/js/2.6d556f5c.chunk.js",
+    "static/css/main.06e1a839.chunk.css",
+    "static/js/main.15807e75.chunk.js"
+  ]
+}
